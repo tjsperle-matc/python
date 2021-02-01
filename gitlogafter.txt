@@ -1,0 +1,29 @@
+commit 1e2f46a9482bcd70fcbc167d14e4b6a5bdcf7f73
+Author: Tyler Sperle <tjsperle@madisoncollege.edu>
+Date:   Mon Feb 1 13:48:07 2021 -0600
+
+    Initial commit of GitHub exercise
+
+commit 0d75b346ca4d7aced96261360abc23976c0d3385
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Feb 1 19:23:07 2021 +0000
+
+    Setting up GitHub Classroom Feedback
+
+commit d01ecf4bab31d4c246c311e2d13aa0a6a299c593
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Feb 1 19:23:07 2021 +0000
+
+    Update GitHub Classroom Feedback
+
+commit a54d6e103dd61ac3fd8d6ad2b091e78a5fb5e787
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Feb 1 19:23:05 2021 +0000
+
+    Setting up GitHub Classroom Feedback
+
+commit 3c37f9a10c49c33d739835bb6c516b6418e0f02e
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Feb 1 19:23:04 2021 +0000
+
+    GitHub Classroom Feedback
